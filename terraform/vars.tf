@@ -13,10 +13,10 @@ variable "ARM_CLIENT_SECRET"    {}
 
 variable "specific_tags"        { default = {} }
 
-variable "main_project"         { default = "color" }   # Set this VARIABLE - this will form  the name of RESOURCES
+variable "main_project"         { default = "jenkins" }   # Set this VARIABLE - this will form  the name of RESOURCES
 
 variable "sub_project"          { default = "0123" }
 variable "location"             { default = "uksouth" }                             # https://github.com/claranet/terraform-azurerm-regions/blob/master/regions.tf
 variable "container_image"      { default = "jenkins/jenkins" }
 
-variable "dns_name_label"       { default = "jenkins123" }  # Set this VARIABLE - this will be URL of application, should be unique
+variable "dns_name_label"       { default = "jenkins433" }  # Set this VARIABLE - this will be URL of application, should be unique
