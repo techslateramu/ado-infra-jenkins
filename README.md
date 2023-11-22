@@ -38,3 +38,7 @@
 
 ![jenkins-password](https://github.com/techslateramu/ado-infra-jenkins/assets/123730077/31feb533-a166-4906-a75e-6848587c058c)
 
+
+![jenkins-page](https://github.com/techslateramu/ado-infra-jenkins/assets/123730077/5b42bfc9-9ca9-4470-a279-0ebc35a608f5)
+
+
