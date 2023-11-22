@@ -18,5 +18,6 @@ variable "main_project"         { default = "jenkins" }   # Set this VARIABLE - 
 variable "sub_project"          { default = "0123" }
 variable "location"             { default = "uksouth" }                             # https://github.com/claranet/terraform-azurerm-regions/blob/master/regions.tf
 variable "container_image"      { default = "jenkins/jenkins" }
+variable "container_port"       { default = "8080" }
 
 variable "dns_name_label"       { default = "jenkins433" }  # Set this VARIABLE - this will be URL of application, should be unique
