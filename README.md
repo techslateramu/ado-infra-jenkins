@@ -45,4 +45,8 @@
 ![first-pipeline](https://github.com/techslateramu/ado-infra-jenkins/assets/123730077/65d709c9-2327-457e-b891-236c21b5fa30)
 
 
+![build success](https://github.com/techslateramu/ado-infra-jenkins/assets/123730077/2e299daa-6eef-4211-8f41-73b149a60580)
+
+
+
 
