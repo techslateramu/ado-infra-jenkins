@@ -33,3 +33,8 @@
 # Pipeline
 - Pipeline contains 4 steps, terraform init, validte, plan, apply 
 - Make sure to set env variables ( including terraform backend variables) - pls see pre-requisites for more info.
+
+# Jenkins Pipeline
+
+![jenkins-password](https://github.com/techslateramu/ado-infra-jenkins/assets/123730077/31feb533-a166-4906-a75e-6848587c058c)
+
