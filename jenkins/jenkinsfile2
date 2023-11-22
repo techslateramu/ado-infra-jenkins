@@ -1,0 +1,31 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('Hello World') {
+            steps {
+                script {
+                    echo 'Hello, World!'
+                }
+            }
+        }
+
+        stage('Build') {
+            steps {
+                script {
+                    echo 'Building the application...'
+                    // Additional build steps can be added here
+                }
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                script {
+                    echo 'Deploying the application...'
+                    // Additional deployment steps can be added here
+                }
+            }
+        }
+    }
+}
