@@ -19,5 +19,6 @@ module "container_instance" {
   resource_group_name                         = module.resource_group.name
   container_image                             = var.container_image
   dns_name_label                              = var.dns_name_label
+  container_port                              = var.container_port
 }
 
