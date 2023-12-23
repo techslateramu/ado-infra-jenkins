@@ -10,7 +10,7 @@ module "resource_group" {
 }
 
 module "container_instance" {
-  source                                      = "github.com/techslateramu/terraform-modules//azure/containerinstance"
+  source                                      = 
   environment                                 = var.environment
   location                                    = var.location
   main_project                                = var.main_project
